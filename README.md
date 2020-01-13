@@ -18,6 +18,10 @@ Converter is an open source cocoapod whose aim is to contain every conversion yo
 ## Current Conversions
 
 - Kilometres to Miles
+- Metres to Kilometres
+- Metres to Miles
+- Pounds to Kilograms
+- Tonne to Kilograms
 
 
 
